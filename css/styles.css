@@ -1,0 +1,33 @@
+
+
+
+.container-fluid{
+  text-align: center;
+    color:#d9ca7a;
+    /* color:#F0D201; */
+    background-color: black;
+}
+
+@media (max-width: 900px) {
+  .title-image {height:325px;
+    width:500px;}
+}
+
+/* .middle-container{ background-color:#F7EF8A;
+color: black;
+} */
+
+.middle-container{
+  background-color: #d9ca7a;
+  color:black;
+}
+.family-pic{
+  border-radius: 60%;
+  padding-top: 20px;
+}
+
+ .bottom-container{
+   background-color:#98EECC;
+   color: black
+ }
+ 
